@@ -5,6 +5,6 @@ __turbopack_load_page_chunks__("/products/edit-project", [
   "static/chunks/59c93aab70d45d83.js",
   "static/chunks/bbabc1675a47b699.js",
   "static/chunks/e40ca02a31c1d5da.js",
-  "static/chunks/1aadc5a55ff67c03.js",
-  "static/chunks/turbopack-b5aeeb656d1674fe.js"
+  "static/chunks/67a068ce4eeff489.js",
+  "static/chunks/turbopack-6b861eb25c9c535e.js"
 ])
